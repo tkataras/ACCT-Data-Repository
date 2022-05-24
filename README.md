@@ -17,7 +17,9 @@ In context of ACCT:
 
 
 Description of data:
+
 In brief, mice were terminally anesthetized with isoflurane and transcardially perfused with 0.9$\%$ saline. The mouse brains were removed and fixed for 72 hours at 4°C in 4% paraformaldehyde. Brain sections were obtained using a vibratome (Leica VT1000S, Leica Biosystems, Buffalo Grove, IL) and cerebral cortex in 40 µm thick sagittal sections spaced 320 µm apart medial to lateral from brains of 11-14 month-old mice of each genotype. Staining was performed with rabbit anti-ionized calcium-binding adaptor molecule 1 (Iba-1) IgG (1:125; Wako) with secondary antibody Fluorescein isothiocyanate (FITC). For quantification of IBA-1 stained microglia, cell bodies were counted in the cerebral cortex from three fields of view per section. Between 2 and 3 images were collected per field of view to capture as many cells as possible in sufficient focus for identification. Microscopy was performed with a Zeiss 200 M fluorescence deconvolution microscope with a computer-controlled 3D stage and FITC filter. All images were collected using Slidebook software (version 6, Intelligent Imaging Innovations, Inc., Denver, CO). Images were acquired at 10X magnification and pixel resolution 1280x1280 and cropped to 1280x733 pixel area to exclude irregular tissue edges.
 
 For more detail see: 
+
 Singh, H., Ojeda-Juárez, D., Maung, R. et al. A pivotal role for Interferon-α receptor-1 in neuronal injury induced by HIV-1. J Neuroinflammation 17, 226 (2020). https://doi.org/10.1186/s12974-020-01894-2
