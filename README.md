@@ -1,4 +1,4 @@
-# Iba-1-Data-Repository
+# Iba-1-Data
 The Iba-1 staining data used in the ACCT validation testing. Imaged microglia in mice with and without immune-and-inflammation-activating conditions brought on by the transgenic expression of the envelope protein gp120 of human immunodeficiency virus-1 (HIV-1). 
 
 In context of ACCT:
@@ -23,3 +23,18 @@ In brief, mice were terminally anesthetized with isoflurane and transcardially p
 For more detail see: 
 
 Singh, H., Ojeda-Juárez, D., Maung, R. et al. A pivotal role for Interferon-α receptor-1 in neuronal injury induced by HIV-1. J Neuroinflammation 17, 226 (2020). https://doi.org/10.1186/s12974-020-01894-2
+
+
+
+# Fluocell-Data
+
+The 283 1600x1200 pixel images were taken at 200x magnification of 35 µm thick slices of mouse brain tissue with neurons stained via a monosynaptic retrograde tracer (Cholera Toxin b, CTb). This tracer highlighted only neurons connected to the toxin injection site. 
+
+Description of data:
+
+This dataset contains images with both high and low cell density, as well as varying amounts of noise and artifacts (Supplementary Fig. F2). We also observed that many images contain overlapping or touching cells. The Fluocell dataset presents different challenges when compared to our Iba-1 positive microglia dataset where cells are more evenly distributed and the number of cells per image is more consistent.
+
+for more detail see:
+
+Morelli, R., Clissa, L., Amici, R., Cerri, M., Hitrec, T., Luppi, M., Rinaldi, L., Squarcio, F., & Zoccoli, A. (2021). Automating cell counting in fluorescent microscopy through deep learning with c-ResUnet. Scientific Reports, 11(1), 22920.
+https://www.nature.com/articles/s41598-021-01929-5
