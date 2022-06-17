@@ -1,0 +1,2 @@
+,classifier,precision,recall,F1,accuracy,MAE,MPE,F1_geno_ttest_pval,mean_F1_ev0,mean_F1_ev1,precision_geno_ttest_pval,recall_geno_ttest_pval
+0,classifierRandomForest3,0.781456954,0.477732794,0.592964824,0.421428571,9.6,0.038866397,0.769326649,0.493577836,0.538617497,0.346226205,0.628068114

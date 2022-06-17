@@ -1,0 +1,2 @@
+,classifier,precision,recall,F1,accuracy,MAE,MPE,F1_geno_ttest_pval,mean_F1_ev0,mean_F1_ev1,precision_geno_ttest_pval,recall_geno_ttest_pval
+0,classifierBayes3,0.896200185,0.292410039,0.440948472,0.282831237,8.996197719,0.002561682,0.514320443,0.434117446,0.463965838,0.877154772,0.880757681
