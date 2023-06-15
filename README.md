@@ -1,3 +1,5 @@
+If you use our tool or dataset, please cite [Kataras, T.J., Jang, T.J., Koury, J. et al. *ACCT is a fast and accessible automatic cell counting tool using machine learning for 2D image segmentation*. Sci Rep 13, 8213 (2023).](https://doi.org/10.1038/s41598-023-34943-w).
+
 # Iba-1-Data
 The Iba-1 staining data used in the ACCT validation testing. Imaged microglia in mice with and without immune-and-inflammation-activating conditions brought on by the transgenic expression of the envelope protein gp120 of human immunodeficiency virus-1 (HIV-1). 
 
